@@ -8,10 +8,12 @@ OpenLANE is an automated RTL to GDSII flow based on several components including
 
 In this workshop, we worked to explore and learn the Physical Design Flow for a tutorial RISC-V CPU Design PicoRV32a.
 
-![image](https://user-images.githubusercontent.com/107251479/175490371-b140205b-bcc9-46f4-bab7-8f8830c6a170.png)
+# Setting Up the Design:
+
+![image](https://user-images.githubusercontent.com/107251479/175585039-6c07d506-391a-4708-8f74-410d96bbe574.png)
 
 
-Synthesis:
+# Synthesis:
 
 ![image](https://user-images.githubusercontent.com/107251479/175490669-cc23ccdf-000f-402c-9e26-046b30ab2a59.png)
 
@@ -22,7 +24,7 @@ Synthesis:
 ![image](https://user-images.githubusercontent.com/107251479/175491856-c0451bc6-9e89-4d58-aec5-90e2d51fb4d9.png)
 
 
-Floorplan:
+# Floorplan:
 
 ![image](https://user-images.githubusercontent.com/107251479/175508877-15b7d9e3-1b64-47e3-a414-737c05cd896f.png)
 
@@ -36,7 +38,7 @@ Floorplan:
 ![image](https://user-images.githubusercontent.com/107251479/175532089-cc32f073-094d-402b-92a4-eb0878593d08.png)
 
 
-Placement:
+# Placement:
 
 ![image](https://user-images.githubusercontent.com/107251479/175529785-07b4d97b-5f1a-4ee8-98fd-fd1ce3f9754a.png)
 
