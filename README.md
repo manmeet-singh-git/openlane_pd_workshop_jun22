@@ -47,3 +47,9 @@ In this workshop, we worked to explore and learn the Physical Design Flow for a 
 
 ![image](https://user-images.githubusercontent.com/107251479/175531524-6cad4032-21e1-44a9-87fe-bc52bd99a6d4.png)
 
+
+# Std Cell Layout in Magic:
+
+![image](https://user-images.githubusercontent.com/107251479/175604257-de88bc97-753e-45ee-942f-eac1a79601e1.png)
+
+
