@@ -31,3 +31,17 @@ Floorplan:
 
 ![image](https://user-images.githubusercontent.com/107251479/175507790-c08ab374-e734-435a-b128-75bbb8eca42f.png)
 
+![image](https://user-images.githubusercontent.com/107251479/175531974-0bae7add-c0e0-4e15-8768-950ed550905e.png)
+
+![image](https://user-images.githubusercontent.com/107251479/175532089-cc32f073-094d-402b-92a4-eb0878593d08.png)
+
+
+Placement:
+
+![image](https://user-images.githubusercontent.com/107251479/175529785-07b4d97b-5f1a-4ee8-98fd-fd1ce3f9754a.png)
+
+![image](https://user-images.githubusercontent.com/107251479/175529843-90a08a14-ff25-4452-aaee-901cc308b48a.png)
+
+
+![image](https://user-images.githubusercontent.com/107251479/175531524-6cad4032-21e1-44a9-87fe-bc52bd99a6d4.png)
+
