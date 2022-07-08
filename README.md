@@ -53,3 +53,9 @@ In this workshop, we worked to explore and learn the Physical Design Flow for a 
 ![image](https://user-images.githubusercontent.com/107251479/175604257-de88bc97-753e-45ee-942f-eac1a79601e1.png)
 
 
+# Running ngspice:
+
+![image](https://user-images.githubusercontent.com/107251479/177997978-6252826a-02d9-404a-9a02-795e8c454c7d.png)
+
+![image](https://user-images.githubusercontent.com/107251479/177998072-74dbc7cf-a836-4432-a9ce-8fa9de60a7ac.png)
+ 
