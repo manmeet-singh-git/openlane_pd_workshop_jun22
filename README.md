@@ -59,3 +59,21 @@ In this workshop, we worked to explore and learn the Physical Design Flow for a 
 
 ![image](https://user-images.githubusercontent.com/107251479/177998072-74dbc7cf-a836-4432-a9ce-8fa9de60a7ac.png)
  
+![image](https://user-images.githubusercontent.com/107251479/178044700-2c1562da-9123-40f6-88ac-3e342314473d.png)
+
+![image](https://user-images.githubusercontent.com/107251479/178045288-c5c531fc-8e88-4822-b620-0fe8417a3a1d.png)
+
+Rise Delay: 20% (0.6V) -> 80% (2.64V)
+
+t(20%) = 2.03e-09
+t(80%) = 2.10e-09
+
+
+# Extracting lef 
+
+![image](https://user-images.githubusercontent.com/107251479/178053486-ee771657-0034-4bc9-8776-b036a6618b72.png)
+
+![image](https://user-images.githubusercontent.com/107251479/178071533-25f200af-4ff8-4da9-b4ec-1e8f6d199557.png)
+
+![image](https://user-images.githubusercontent.com/107251479/178071443-133eabb5-031f-4f58-8b86-f2c0b509d3c5.png)
+
