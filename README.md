@@ -63,7 +63,7 @@ In this workshop, we worked to explore and learn the Physical Design Flow for a 
 
 ![image](https://user-images.githubusercontent.com/107251479/178045288-c5c531fc-8e88-4822-b620-0fe8417a3a1d.png)
 
-Rise Delay: 20% (0.6V) -> 80% (2.64V)
+Rise Transition: 20% (0.6V) -> 80% (2.64V)
 
 t(20%) = 2.03e-09
 t(80%) = 2.10e-09
